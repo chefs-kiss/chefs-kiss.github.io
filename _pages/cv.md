@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
  
-[Download (PDF)](https://chefs-kiss.github.io/website/_pages/Mandery_CV_2025.pdf){: .btn }
+[Download (PDF)](https://chefs-kiss.github.io/website/files/Mandery_CV_2025.pdf){: .btn }
 
 
 Education
