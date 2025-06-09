@@ -12,7 +12,7 @@ My name is Kim Mandery. I’m an Instructor of Computer Science in the [Mathemat
 
 Research 
 ---
-My research area is machine learning, with a focus on the ethical and social dimensions of algorithmic systems. As machine learning continues to shape decision-making in healthcare, education, hiring, and more, it's critical to ensure these systems are fair, interpretable, and accountable. My work explores techniques for algorithm auditing and data storytelling to surface hidden biases and make complex models more transparent and understandable to diverse audiences. I also study natural language processing, bioinformatics applications of machine learning, and designing inclusive tools and curricula that broaden participation in computer science. Across these areas, I aim to develop methods and practices that make machine learning accessible to all audiences.
+My research area is machine learning, with a focus on the ethical and social dimensions of algorithmic systems. As machine learning continues to shape decision-making in healthcare, education, hiring, and more, it's critical to ensure these systems are fair, interpretable, and accountable. My work explores techniques for algorithm auditing and data storytelling to surface hidden biases and make complex models more transparent and understandable to diverse audiences. I also study natural language processing, bioinformatics, and curricula design. Across these areas, I aim to develop methods and practices that make machine learning accessible to all audiences.
 
 Personal Life
 ---
