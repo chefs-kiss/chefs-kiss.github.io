@@ -15,4 +15,10 @@ This book covers dignity and identity with regards to intimate data through the 
 View the author's [page](https://www.daniellecitron.com/the-fight-for-privacy-protecting-dignity-identity-and-love-in-our-digital-age/)
 
 
+Review
+---
+Updating when I finish
 
+Quotes
+---
+*TBD*
