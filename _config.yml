@@ -13,7 +13,7 @@ title                    : "Kimberly Mandery"
 title_separator          : "-"
 name                     : &name "Kim"
 description              : &description "personal description"
-url                      : https://chefs-kiss.github.io/website/
+url                      : https://chefs-kiss.github.io/website
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/chefs-kiss/website"
 
