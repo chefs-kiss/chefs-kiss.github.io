@@ -8,7 +8,9 @@ date: 2025-09-19
 location: "Rochester, MN"
 ---
 
-This four-part workshop series focuses on introducing game design principles through making a Flappy Bird clone. This workshop will be taught by Tony Smith, a CS student in the MSCS department at St. Olaf.
+This four-part workshop series focuses on introducing game design principles through making a Flappy Bird clone. 
+
+This workshop will be taught by Tony Smith, a CS student in the MSCS department at St. Olaf.
 
 **Schedule**: *WIP*
 Day 0: Introduction to GameMaker Studio
