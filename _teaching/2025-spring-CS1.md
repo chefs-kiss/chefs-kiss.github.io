@@ -16,3 +16,5 @@ location: "Northfield, MN"
 - explore how computers execute code and represent data
 - apply computational thinking to reason through novel challenges
 - collaborate and communicate effectively in both individual and team-based settings
+
+Visit the course page [here](https://chefs-kiss.github.io/cs1_spring2025/)
