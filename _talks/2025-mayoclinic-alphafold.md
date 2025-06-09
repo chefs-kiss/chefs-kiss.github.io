@@ -1,7 +1,7 @@
 ---
 title: "Unfolding the Folding Algorithm: Machine Learning Techniques Used in Alfafold"
 collection: talks
-type: "informal"
+type: "Seminar"
 permalink: /talks/2025-mayoclinic-alphafold
 venue: "Mayo Clinic"
 date: 2025-07-19

@@ -1,7 +1,7 @@
 ---
 title: "Game Design Workshop Series"
 collection: talks
-type: "workshop"
+type: "Workshop"
 permalink: /talks/2025-fall-gamedesign
 venue: "St. Olaf"
 date: 2025-09-19
