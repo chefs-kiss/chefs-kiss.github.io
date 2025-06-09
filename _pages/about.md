@@ -8,11 +8,11 @@ redirect_from:
 ---
 About Me
 ---
-My name is Kim Mandery. I’m an Instructor of Computer Science in the Mathematics, Statistics, and Computer Science Department at St. Olaf College. I earned my M.S. in Applied and Computational Mathematics at the University of Minnesota - Duluth studying under Tracy Bibelniecks. I earned degrees in Applied Mathematics, and Statistics and Actuarial Science from University of Minnesota - Duluth.
+My name is Kim Mandery. I’m an Instructor of Computer Science in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I earned my M.S. in Applied and Computational Mathematics at the University of Minnesota - Duluth studying under Tracy Bibelniecks. I earned degrees in Applied Mathematics, and Statistics and Actuarial Science from University of Minnesota - Duluth.
 
 Research 
 ---
-My research area is machine learning, with a focus on the ethical and social dimensions of algorithmic systems. As machine learning continues to shape decision-making in healthcare, education, hiring, and more, it's critical to ensure these systems are fair, interpretable, and accountable. My work explores techniques for algorithm auditing and data storytelling to surface hidden biases and make complex models more transparent and understandable to diverse audiences. I also study natural language processing, particularly how language models encode and perpetuate societal norms and power structures. In addition, I am interested in bioinformatics applications of machine learning and in designing inclusive tools and curricula that broaden participation in computer science. Across these areas, I aim to develop methods and practices that make machine learning not just more powerful, but more just.
+My research area is machine learning, with a focus on the ethical and social dimensions of algorithmic systems. As machine learning continues to shape decision-making in healthcare, education, hiring, and more, it's critical to ensure these systems are fair, interpretable, and accountable. My work explores techniques for algorithm auditing and data storytelling to surface hidden biases and make complex models more transparent and understandable to diverse audiences. I also study natural language processing, bioinformatics applications of machine learning, and designing inclusive tools and curricula that broaden participation in computer science. Across these areas, I aim to develop methods and practices that make machine learning accessible to all audiences.
 
 Personal Life
 ---
