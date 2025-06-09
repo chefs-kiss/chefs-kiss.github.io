@@ -4,7 +4,7 @@ collection: teaching
 type: "Course"
 permalink: /teaching/2025-spring-CS1
 venue: "St. Olaf College, MSCS Department"
-date: 2025-05
+date: 2025-05-01
 location: "Northfield, MN"
 ---
 
