@@ -17,7 +17,7 @@ View the author's [page](https://www.daniellecitron.com/the-fight-for-privacy-pr
 
 Review
 ---
-Updating when I finish
+*TBD*
 
 Quotes
 ---
