@@ -5,7 +5,7 @@ type: "Workshop"
 permalink: /talks/2025-fall-gamedesign
 venue: "St. Olaf"
 date: 2025-09-19
-location: "Rochester, MN"
+location: "Northfield, MN"
 ---
 
 This four-part workshop series focuses on introducing game design principles through making a Flappy Bird clone. 
