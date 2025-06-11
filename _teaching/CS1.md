@@ -17,6 +17,7 @@ location: "Northfield, MN"
 - apply computational thinking to reason through novel challenges
 - collaborate and communicate effectively in both individual and team-based settings
 
-[Spring 2025](https://chefs-kiss.github.io/cs1_spring2025/)
 Fall 2025
+[Spring 2025](https://chefs-kiss.github.io/cs1_spring2025/)
+Fall 2024
 Spring 2023
