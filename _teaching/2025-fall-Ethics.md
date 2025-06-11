@@ -1,7 +1,7 @@
 ---
 title: "Ethics in Programming"
 collection: teaching
-type: "Course"
+type: "CSCI 263"
 permalink: /teaching/2025-fall-ethics
 venue: "St. Olaf College, MSCS Department"
 date: 2025-09-01

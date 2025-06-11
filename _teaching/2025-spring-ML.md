@@ -1,7 +1,7 @@
 ---
 title: "Machine Learning"
 collection: teaching
-type: "Course"
+type: "CS 200"
 permalink: /teaching/2025-spring-ML
 venue: "St. Olaf College, MSCS Department"
 date: 2025-05-01
