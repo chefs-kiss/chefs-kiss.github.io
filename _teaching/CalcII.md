@@ -4,7 +4,7 @@ collection: teaching
 type: "MATH 126"
 permalink: /teaching/calcII
 venue: "St. Olaf College, MSCS Department"
-date: 2023-09-01
+date: 2022-09-01
 location: "Northfield, MN"
 ---
 
