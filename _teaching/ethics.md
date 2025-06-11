@@ -1,5 +1,5 @@
 ---
-title: "Ethics in Programming"
+title: "Ethics in Computer Science"
 collection: teaching
 type: "CSCI 263"
 permalink: /teaching/ethics

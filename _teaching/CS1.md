@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Programming"
+title: "Principles of Computer Science"
 collection: teaching
 type: "CSCI 121"
 permalink: /teaching/CS1

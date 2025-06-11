@@ -24,7 +24,7 @@ Work experience
   * Designed active learning curriculum and presented lectures for math and computer science courses.
   * Encouraged a growth mindset in others by mentoring and guiding students in developing computational skills and encouraging exploration and experimentation in courses taught.
   * Faculty mentor to student researchers involved in data competitions, hackathons, and machine learning projects.
-  * Courses taught: Calculus I-II, Introduction to Programming, Introduction to Machine Learning
+  * Courses taught: Calculus I-II, Principles of Computer Science, Machine Learning, Ethics in Computer Science
 
 * **Data Scientist** *Hennepin County* (2023 - 2024)
   * Sourced, aggregated, managed data and leveraged data science technologies to answer business questions as part of the imple- mentation of an enterprise integrated data system (EIDS) with a focus on building well-documented analysis pipelines.
