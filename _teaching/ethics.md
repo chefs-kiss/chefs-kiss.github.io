@@ -16,11 +16,5 @@ location: "Northfield, MN"
 - work effectively, both individually and in teams
 - communicate information effectively to both technical and non-technical audiences
 
-**Learning Objectives**: In this course we will be able to:
-- Explain foundational ethical theories, concepts, and frameworks relevant to technology design, development, and deployment.
-- Identify and critically analyze ethical, social, and legal challenges arising from emerging technologies, including issues of bias, privacy, surveillance, and misinformation.
-- Apply interdisciplinary methods and critical thinking to evaluate the societal impacts and risks of technological systems across diverse contexts and stakeholders.
-- Demonstrate understanding of governance mechanisms, professional responsibilities, and regulatory approaches for promoting fairness, accountability, and transparency in technology.
-- Develop practical skills for ethical decision-making and design of responsible technologies that anticipate future challenges and incorporate inclusive, equitable, and sustainable principles.
 
 Fall 2025
