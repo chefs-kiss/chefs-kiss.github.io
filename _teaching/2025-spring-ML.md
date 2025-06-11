@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Machine Learning"
+title: "Machine Learning"
 collection: teaching
 type: "Course"
 permalink: /teaching/2025-spring-ML
