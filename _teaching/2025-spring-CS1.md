@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Programming"
 collection: teaching
-type: "Course"
+type: "CSCI 121"
 permalink: /teaching/2025-spring-CS1
 venue: "St. Olaf College, MSCS Department"
 date: 2025-05-01
