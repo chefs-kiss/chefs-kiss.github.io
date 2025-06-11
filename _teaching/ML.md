@@ -2,7 +2,7 @@
 title: "Machine Learning"
 collection: teaching
 type: "CSCI 200"
-permalink: /teaching/2025-spring-ML
+permalink: /teaching/ML
 venue: "St. Olaf College, MSCS Department"
 date: 2025-05-01
 location: "Northfield, MN"
@@ -15,3 +15,6 @@ location: "Northfield, MN"
 - develop working software that satisfies coding best practices
 - work effectively, both individually and in teams
 - communicate information effectively to both technical and non-technical audiences
+
+Spring 2025
+Spring 2024

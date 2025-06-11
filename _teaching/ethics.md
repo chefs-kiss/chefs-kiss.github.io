@@ -2,7 +2,7 @@
 title: "Ethics in Programming"
 collection: teaching
 type: "CSCI 263"
-permalink: /teaching/2025-fall-ethics
+permalink: /teaching/ethics
 venue: "St. Olaf College, MSCS Department"
 date: 2025-09-01
 location: "Northfield, MN"
@@ -22,3 +22,5 @@ location: "Northfield, MN"
 - Apply interdisciplinary methods and critical thinking to evaluate the societal impacts and risks of technological systems across diverse contexts and stakeholders.
 - Demonstrate understanding of governance mechanisms, professional responsibilities, and regulatory approaches for promoting fairness, accountability, and transparency in technology.
 - Develop practical skills for ethical decision-making and design of responsible technologies that anticipate future challenges and incorporate inclusive, equitable, and sustainable principles.
+
+Fall 2025

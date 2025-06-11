@@ -2,7 +2,7 @@
 title: "Introduction to Programming"
 collection: teaching
 type: "CSCI 121"
-permalink: /teaching/2025-spring-CS1
+permalink: /teaching/CS1
 venue: "St. Olaf College, MSCS Department"
 date: 2025-05-01
 location: "Northfield, MN"
@@ -18,3 +18,5 @@ location: "Northfield, MN"
 - collaborate and communicate effectively in both individual and team-based settings
 
 [Spring 2025](https://chefs-kiss.github.io/cs1_spring2025/)
+Fall 2025
+Spring 2023
