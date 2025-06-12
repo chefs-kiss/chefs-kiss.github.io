@@ -55,6 +55,6 @@ Community Involvement
 ======
 * Judge for COMAP Mathematical Contest in Modeling (MCM), 2018-2025
 * Advisor and judge for MinneAnalytics MinneMUDAC data competition, 2024-2025
-* GRE Quantitative Prep Tutor for TRIO McNair Scholars at University of Wisconsin - Superior 2021 
+* GRE Quantitative Prep Tutor for TRIO McNair Scholars at University of Wisconsin - Superior, 2021 
 * Volunteer at Mayo Clinic, 2018
 * Gardener at Glensheen historic estate, 2017-2018
