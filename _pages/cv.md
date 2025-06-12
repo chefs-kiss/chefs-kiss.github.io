@@ -47,21 +47,18 @@ Talks
   
 Teaching
 ======
-<!--  <ul>{% for post in site.teaching reversed %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
--->
-<li>
-  <strong>{{ post.title }}</strong> — {{ post.institution }}<br />
-  {% if post.semesters %}
+      {% if post.semesters %}
     <em>Taught in:</em>
     <ul>
       {% for semester in post.semesters %}
         <li>{{ semester }}</li>
       {% endfor %}
     </ul>
-  {% endif %}
-</li>
+    {% endif %}
+  {% endfor %}</ul>
+
 Community Involvement
 ======
 * Judge for COMAP Mathematical Contest in Modeling (MCM), 2018-2025
