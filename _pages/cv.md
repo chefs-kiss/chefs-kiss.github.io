@@ -51,9 +51,7 @@ Teaching
     {% include archive-single-cv.html %}
       {% if post.semesters %}
       <ul>
-        {% for semester in post.semesters %}
-          <li>{{ semester }}</li>
-        {% endfor %}
+        {{} post.semesters }}
       </ul>
     {% endif %}
   {% endfor %}</ul>
