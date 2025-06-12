@@ -6,6 +6,9 @@ permalink: /teaching/ML
 venue: "St. Olaf College, MSCS Department"
 date: 2025-05-01
 location: "Northfield, MN"
+semesters:
+- Spring 2025
+- Spring 2024
 ---
 
 **Course Description**: It has become increasingly common to use machine learning algorithms to analyze data, draw conclusions, and build models, without direct human instruction. These algorithms have been used in a wide variety of applications, including Netflix recommendations, predicting healthcare outcomes, criminal justice, and many more. In this course, we’ll explore several common machine learning algorithms, learning how they work, and applying them to real datasets. We will cover the strengths and limitations of machine learning algorithms. We will also explore real-world applications of machine learning, and discuss the ethical and societal consequences of the use of these algorithms.

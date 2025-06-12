@@ -50,12 +50,11 @@ Teaching
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
       {% if post.semesters %}
-    <em>Taught in:</em>
-    <ul>
-      {% for semester in post.semesters %}
-        <li>{{ semester }}</li>
-      {% endfor %}
-    </ul>
+      <ul>
+        {% for semester in post.semesters %}
+          <li>{{ semester }}</li>
+        {% endfor %}
+      </ul>
     {% endif %}
   {% endfor %}</ul>
 

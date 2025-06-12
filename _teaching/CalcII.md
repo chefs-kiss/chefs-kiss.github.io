@@ -6,6 +6,8 @@ permalink: /teaching/calcII
 venue: "St. Olaf College, MSCS Department"
 date: 2022-09-01
 location: "Northfield, MN"
+semesters:
+- Fall 2022
 ---
 
 **Course Description**: This course covers methods and applications of integration, geometric and Taylor series, polar coordinates, and introduces partial derivatives and double integrals.
