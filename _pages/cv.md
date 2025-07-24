@@ -20,7 +20,7 @@ Education
 
 Work experience
 ======
-* **Instructor of Computer Science** *St. Olaf College* (2022 - present)
+* **Computer Scientist** *St. Olaf College* (2022 - present)
   * Designed active learning curriculum and presented lectures for math and computer science courses.
   * Encouraged a growth mindset in others by mentoring and guiding students in developing computational skills and encouraging exploration and experimentation in courses taught.
   * Faculty mentor to student researchers involved in data competitions, hackathons, and machine learning projects.
