@@ -8,11 +8,11 @@ redirect_from:
 ---
 About Me
 ---
-My name is Kim Mandery. I’m an Instructor of Computer Science in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I earned my M.S. in Applied and Computational Mathematics at the University of Minnesota - Duluth studying under Tracy Bibelnieks. I earned degrees in Applied Mathematics, and Statistics and Actuarial Science from University of Minnesota - Duluth.
+My name is Kim Mandery. I’m an Instructor of Computer Science in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. I earned my M.S. in Applied and Computational Mathematics at the University of Minnesota - Duluth studying under Tracy Bibelnieks. I earned my bachelor degree in Applied Mathematics, and Statistics and Actuarial Science from University of Minnesota - Duluth.
 
 Research 
 ---
-My research area is machine learning, with a focus on the ethical and social dimensions of algorithmic systems. As machine learning continues to shape (or at least influence) decision-making in most aspects of the lives that we live, it's critical to ensure these systems are fair, interpretable, and accountable. My work explores methods and practices that make machine learning accessible to all audiences.
+My research area is machine learning, with a focus on the ethical and social dimensions of algorithmic systems. As machine learning continues to shape (or at least influence) decision-making in most aspects of the world that we live in, it's critical to ensure these systems are fair, interpretable, and accountable. My work explores methods and practices that make machine learning accessible to all audiences.
 
 Personal Life
 ---
