@@ -22,7 +22,7 @@ semesters:
 - apply computational thinking to reason through novel challenges
 - collaborate and communicate effectively in both individual and team-based settings
 
-Fall 2025
-[Spring 2025](https://chefs-kiss.github.io/cs1_spring2025/)
-Fall 2024
-Spring 2023
+Fall 2025 <br>
+[Spring 2025](https://chefs-kiss.github.io/cs1_spring2025/) <br>
+Fall 2024 <br>
+Spring 2023 <br>

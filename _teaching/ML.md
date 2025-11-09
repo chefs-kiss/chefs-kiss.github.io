@@ -4,9 +4,10 @@ collection: teaching
 type: "CSCI 200"
 permalink: /teaching/ML
 venue: "St. Olaf College, MSCS Department"
-date: 2025-05-01
+date: 2026-01-01
 location: "Northfield, MN"
 semesters:
+- January 2026
 - Spring 2025
 - Spring 2024
 ---
@@ -19,5 +20,6 @@ semesters:
 - work effectively, both individually and in teams
 - communicate information effectively to both technical and non-technical audiences
 
-Spring 2025
-Spring 2024
+January 2026 <br>
+Spring 2025 <br>
+Spring 2024 <br>
