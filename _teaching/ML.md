@@ -20,6 +20,6 @@ semesters:
 - work effectively, both individually and in teams
 - communicate information effectively to both technical and non-technical audiences
 
-January 2026 <br>
+[January 2026](chefs-kiss.github.io/ML_J2026/) <br>
 Spring 2025 <br>
 Spring 2024 <br>
