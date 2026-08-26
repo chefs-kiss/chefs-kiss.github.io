@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/research/index.html",
-    "items": [
-      "/research/ai_literacy.html",
-      "/research/cell_archive.html",
-      "/research/gd_workshop.html"
-    ]
-  },
-  {
     "listing": "/teaching/index.html",
     "items": [
       "/teaching/game_design.html",
