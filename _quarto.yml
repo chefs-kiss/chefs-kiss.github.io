@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Home"
+  favicon: logo.png
+  navbar:
+    left:
+      - href: about.qmd
+        text: About
+      - href: research/index.qmd
+        text: Research
+      - href: cv.pdf
+        text: CV
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor:
+  render-on-save: true

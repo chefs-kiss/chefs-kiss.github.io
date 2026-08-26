@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "Simone",
+    "section": "",
+    "text": "A longer paragraph about me and my interests and anything else I like to do."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "Simone",
+    "section": "Education",
+    "text": "Education\nWhere I studied"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "Simone",
+    "section": "Experience",
+    "text": "Experience\nWhat I’ve done"
+  },
+  {
+    "objectID": "research/paper-1.html",
+    "href": "research/paper-1.html",
+    "title": "My First Paper",
+    "section": "",
+    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+  },
+  {
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
+    "section": "",
+    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "research/project-1.html",
+    "href": "research/project-1.html",
+    "title": "My First Project",
+    "section": "",
+    "text": "A description of my project.\nCould include a photo, or links, or anything at all!"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Simone",
+    "section": "",
+    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+  }
+]
