@@ -1,0 +1,29 @@
+[
+  {
+    "listing": "/teaching/index.html",
+    "items": [
+      "/teaching/game_design.html",
+      "/teaching/ADM.html",
+      "/teaching/ML.html",
+      "/teaching/CS1.html",
+      "/teaching/DS1.html",
+      "/teaching/AI_ethics.html",
+      "/teaching/Calc1.html",
+      "/teaching/Calc2.html"
+    ]
+  },
+  {
+    "listing": "/projects/index.html",
+    "items": [
+      "/projects/cell_archive.html",
+      "/projects/ai_literacy.html",
+      "/projects/gd_workshop.html"
+    ]
+  },
+  {
+    "listing": "/blog/index.html",
+    "items": [
+      "/blog/2026-08-26.html"
+    ]
+  }
+]
