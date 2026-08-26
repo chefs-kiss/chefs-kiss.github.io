@@ -1,0 +1,9 @@
+---
+title: "SDS 164: Data Science I"
+Semester: "2025-2026 Spring"
+---
+
+**Course Description**: Data is the currency of the modern world. At the intersection between statistics and computer science, data science is about gleaning information and making decisions from data. Using data from a variety of contexts and disciplines, students learn to summarize and extract insight from data, create compelling data visualizations, wrangle data, practice literate programming, and explore ethical issues in data science.
+
+**Semester Taught** <br>
+Spring 2026 <br>

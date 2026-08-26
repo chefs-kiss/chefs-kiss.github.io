@@ -1,9 +1,11 @@
 ---
 title: "Teaching"
 listing:
-  type: default
+  type: table
+  fields: [title, Semester]
+  sort: "Semester desc"
   contents:
     - "*.qmd"
 ---
 
-All courses taught at St. Olaf College unless specified.
+All courses taught at St. Olaf College unless specified.  

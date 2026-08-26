@@ -1,0 +1,10 @@
+---
+title: "CSCI 200: Introduction to Game Design"
+Semester: "2026-2027 January"
+---
+
+**Course Description**: Video games have become one of the largest entertainment industries in the world, and the software behind them draws on nearly every area of computer science at once. Modern real-time games have been used not only for entertainment but also in education, simulation, training, and scientific visualization. In this course, we’ll explore how modern 2-D and 3-D interactive games are built, learning the concepts and tools behind them and applying them to develop real, playable games. We’ll cover core areas including graphics, parallel processing, human-computer interaction, networking, artificial intelligence, and software engineering, and see how they come together in a single interactive system. We will also explore real-world applications of game technology and discuss the social and ethical context in which games are developed, marketed, and played.
+
+**Semesters Taught**
+
+January 2027 [course site](https://chefs-kiss.github.io/GameDesign_J2027/)<br>

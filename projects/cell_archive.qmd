@@ -4,6 +4,7 @@ author:
   - Kim
 semester: "Summer 2026"
 date: "2026-06-01"
+image: "../assets/rothko_2.png"
 ---
 
 Summer research focused on building a data ingestion web app for our biology department.

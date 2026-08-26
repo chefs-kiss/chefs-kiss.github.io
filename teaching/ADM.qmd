@@ -1,0 +1,10 @@
+---
+title: "SDS 341: Algorithms for Decision Making"
+Semester: "2026-2027 Fall"
+---
+
+**Course Description**: This course introduces students to the subject of machine learning. The primary focus is the development and application of powerful machine learning algorithms applied to complex, real-world data. Topics covered include linear regression, nearest neighbor models, k-means clustering, shrinkage methods, decision trees and forests, boosting, bagging, support vector machines, and hierarchical clustering. Applications are taken from a wide variety of disciplines, including biology, economics, public policy, public health, and sports.
+
+**Semester Taught** <br>
+Spring 2026 <br>
+Fall 2026 <br>

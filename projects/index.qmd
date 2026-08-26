@@ -3,7 +3,6 @@ title: "Advised Projects"
 listing:
   type: grid
   sort: "date desc"
-  categories: true
   fields: [image, semester, title, description]
   field-display-names:
     semester: "Semester"

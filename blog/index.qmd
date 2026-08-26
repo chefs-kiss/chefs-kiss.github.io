@@ -1,0 +1,10 @@
+---
+title: "Ramblings"
+listing:
+  type: default
+  sort: "date desc"
+  contents:
+    - "*.qmd"
+---
+
+Dropspot for ramblings and errata. These thoughts are my own, and do not necessarily reflect the ideologies of my affliations.

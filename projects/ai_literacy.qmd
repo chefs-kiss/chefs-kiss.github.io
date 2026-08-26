@@ -4,6 +4,7 @@ author:
   - Kim
 semester: "Spring 2026"
 date: "2026-02-01"
+image: "../assets/rothko_1.png"
 ---
 
 Campus-wide conversations around AI and it's role in higher education.

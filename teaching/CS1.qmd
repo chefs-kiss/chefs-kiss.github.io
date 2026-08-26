@@ -1,0 +1,19 @@
+---
+title: "CSCI 121: Principles of Computer Science"
+Semester: "2025-2026 Spring"
+---
+
+
+**Course Goals**: Through the lens of computer science fundamentals, we will:
+- develop an understanding of core programming concepts, including data types, control flow, functions, and abstraction
+- design and implement simple programs that solve meaningful problems
+- explore how computers execute code and represent data
+- apply computational thinking to reason through novel challenges
+- collaborate and communicate effectively in both individual and team-based settings
+
+**Semesters Taught**
+
+Fall 2025 <br>
+Spring 2025 <br>
+Fall 2024 <br>
+Spring 2023 <br>
