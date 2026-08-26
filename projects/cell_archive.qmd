@@ -1,0 +1,13 @@
+---
+title: "Cell Archive for Tetrahymena"
+author: 
+  - Kim
+semester: "Summer 2026"
+date: "2026-06-01"
+---
+
+Summer research focused on building a data ingestion web app for our biology department.
+
+**Summer 2026** 
+
+*tbd*

@@ -2,37 +2,37 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "Simone",
+    "title": "Kimberly Mandery",
     "section": "",
-    "text": "A longer paragraph about me and my interests and anything else I like to do."
+    "text": "Hiya! I’m Kim and I’m a Computer Scientist in the Mathematics, Statistics, and Computer Science Department at St. Olaf College. I earned my M.S. in Applied and Computational Mathematics at the University of Minnesota - Duluth studying under Tracy Bibelnieks. I earned my bachelor degree in Applied Mathematics, and Statistics and Actuarial Science from University of Minnesota - Duluth."
   },
   {
     "objectID": "about.html#education",
     "href": "about.html#education",
-    "title": "Simone",
+    "title": "Kimberly Mandery",
     "section": "Education",
     "text": "Education\nWhere I studied"
   },
   {
     "objectID": "about.html#experience",
     "href": "about.html#experience",
-    "title": "Simone",
+    "title": "Kimberly Mandery",
     "section": "Experience",
-    "text": "Experience\nWhat I’ve done"
+    "text": "Experience\nI’ve worked in industry and government sectors prior to coming to academia. I am a huge proponent of data for good, and absolutely love chatting about my experiences and about the tech industry as a whole."
   },
   {
     "objectID": "research/paper-1.html",
     "href": "research/paper-1.html",
-    "title": "My First Paper",
+    "title": "AI Literacy in Education",
     "section": "",
-    "text": "A description of my paper.\nCould include a photo, or links, or anything at all!"
+    "text": "to-do- Add link to FO’s website and a short description about this project."
   },
   {
     "objectID": "research/index.html",
     "href": "research/index.html",
-    "title": "Research",
+    "title": "Advised Projects",
     "section": "",
-    "text": "All of my research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Paper\n\n\n\n\n\n\n\n\n\n\n\nJan 1, 2024\n\n\nSimone , Matthew DeHaven\n\n\n\n\n\n\n\n\n\n\n\n\nMy First Project\n\n\n\n\n\n\n\n\n\n\n\nFeb 28, 2024\n\n\nSimone\n\n\n\n\n\n\nNo matching items"
+    "text": "Here are a few selected projects I have advised on.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI Literacy in Education\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\nKim\n\n\n\n\n\n\n\n\n\n\n\n\nAI Literacy in Education\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\nKim\n\n\n\n\n\n\n\n\n\n\n\n\nGame Design Workshop\n\n\n\n\n\n\n\n\nJan 1, 2026\n\n\nKim\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "research/project-1.html",
@@ -44,8 +44,92 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Simone",
+    "title": "Kimberly Mandery",
     "section": "",
-    "text": "I am a Ph.D. student in upside-down studies at Sunspot University.\nMost of my current research is driven by trying to find an answer to the age-old question of “How cute am I?”\nPlease feel free to get in touch!"
+    "text": "I teach computer science and statistics in the MSCS Department at St. Olaf College.\nHere you’ll find some of the things I’ve built, a few projects I’ve advised on,  and the occasional rambling about whatever’s on my mind.\nPlease feel free to get in touch!"
+  },
+  {
+    "objectID": "about.html#research",
+    "href": "about.html#research",
+    "title": "Kimberly Mandery",
+    "section": "Research",
+    "text": "Research\nMy research area is machine learning, with a focus on the ethical and social dimensions of algorithmic systems. As machine learning continues to shape (or at least influence) decision-making in most aspects of the world that we live in, it’s critical to ensure these systems are fair, interpretable, and accountable. My work explores methods and practices that make machine learning accessible to all audiences."
+  },
+  {
+    "objectID": "about.html#research-interests",
+    "href": "about.html#research-interests",
+    "title": "Kimberly Mandery",
+    "section": "Research Interests",
+    "text": "Research Interests\nMy research area is machine learning, with a focus on the ethical and social dimensions of algorithmic systems. As machine learning continues to shape (or at least influence) decision-making in most aspects of the world that we live in, it’s critical to ensure these systems are fair, interpretable, and accountable. My work explores methods and practices that make machine learning accessible to all audiences."
+  },
+  {
+    "objectID": "about.html#personal-life",
+    "href": "about.html#personal-life",
+    "title": "Kimberly Mandery",
+    "section": "Personal Life",
+    "text": "Personal Life\nI’m originally from Rochester, Minnesota, best known for our giant corncob water tower (in reality it’s the Mayo Clinic but the water tower is iconic in it’s own right).\nI will say “ope” when I bump into literally anything, and love getting lost in a really good fantasy series (always up for recs!). I have two very opinionated dogs, both named after hobbits (yes, they live up to the names), and I play way too much Magic: The Gathering.\nI have always been interested in any form of artistic expression, and would have likely ended up as an art teacher if tech didn’t pan out. Recentely I have been enamored with pottery and printmaking, and love to go explore underrated museums (always open for recs here as well!)"
+  },
+  {
+    "objectID": "about.html#personal-life-1",
+    "href": "about.html#personal-life-1",
+    "title": "Kimberly Mandery",
+    "section": "Personal Life",
+    "text": "Personal Life\nI’m originally from Rochester, Minnesota, best known for the Mayo Clinic (allegedly), but if you ask me, the real reason folks come is to behold the giant corncob water tower. I will say “ope” when I bump into literally anything, and love getting lost in a really good fantasy series (always up for recs!). I have two very opinionated dogs, both named after hobbits (yes, they live up to the names), and I play way too much Magic: The Gathering.\nI have always been interested in any form of artistic expression, and have recently been enamored with pottery and printmaking."
+  },
+  {
+    "objectID": "research/cell_archive.html",
+    "href": "research/cell_archive.html",
+    "title": "AI Literacy in Education",
+    "section": "",
+    "text": "to-do- Add link to cell archive web app and a short description about this project."
+  },
+  {
+    "objectID": "research/ai_literacy.html",
+    "href": "research/ai_literacy.html",
+    "title": "AI Literacy in Education",
+    "section": "",
+    "text": "to-do- Add link to FO’s website and a short description about this project."
+  },
+  {
+    "objectID": "research/gd_workshop.html",
+    "href": "research/gd_workshop.html",
+    "title": "Game Design Workshop",
+    "section": "",
+    "text": "to-do: add short description of work and link to TS’s YT playlist."
+  },
+  {
+    "objectID": "teaching/index.html",
+    "href": "teaching/index.html",
+    "title": "Teaching",
+    "section": "",
+    "text": "All courses taught at St. Olaf College unless specified.\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Advised Projects",
+    "section": "",
+    "text": "Here are a few selected projects I have advised on.\n\n\n\n\n\n\n\n\n\n\n\n\nCell Archive for Tetrahymena\n\n\n\n\n\n\n\n\nSemester\n\n\nSummer 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI Literacy in Education\n\n\n\n\n\n\n\n\nSemester\n\n\nSpring 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\nGame Design Workshops\n\n\n\n\n\n\n\n\nSemester\n\n\nFall 2025\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "projects/cell_archive.html",
+    "href": "projects/cell_archive.html",
+    "title": "Cell Archive for Tetrahymena",
+    "section": "",
+    "text": "Summer research focused on building a data ingestion web app for our biology department.\nSummer 2026\ntbd"
+  },
+  {
+    "objectID": "projects/gd_workshop.html",
+    "href": "projects/gd_workshop.html",
+    "title": "Game Design Workshops",
+    "section": "",
+    "text": "Development of weekly drop-in workshops for introductory game design.\nFall 2025\ntbd"
+  },
+  {
+    "objectID": "projects/ai_literacy.html",
+    "href": "projects/ai_literacy.html",
+    "title": "AI Literacy in Education",
+    "section": "",
+    "text": "Campus-wide conversations around AI and it’s role in higher education.\nSpring 2026\ntbd"
   }
 ]

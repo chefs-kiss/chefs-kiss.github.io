@@ -1,0 +1,14 @@
+---
+title: "Advised Projects"
+listing:
+  type: grid
+  sort: "date desc"
+  categories: true
+  fields: [image, semester, title, description]
+  field-display-names:
+    semester: "Semester"
+  contents:
+    - "*.qmd"
+---
+
+Here are a few selected projects I have advised on. 

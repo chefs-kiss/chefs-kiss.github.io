@@ -1,0 +1,9 @@
+---
+title: "Teaching"
+listing:
+  type: default
+  contents:
+    - "*.qmd"
+---
+
+All courses taught at St. Olaf College unless specified.

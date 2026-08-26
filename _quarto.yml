@@ -9,9 +9,11 @@ website:
     left:
       - href: about.qmd
         text: About
-      - href: research/index.qmd
-        text: Research
-      - href: cv.pdf
+      - href: projects/index.qmd
+        text: Advised Projects
+      - href: teaching/index.qmd
+        text: Teaching
+      - href: files/Mandery_CV_2025.pdf
         text: CV
 
 format:

@@ -1,29 +1,39 @@
 ---
-title: "Simone"
+title: "Kimberly Mandery"
 about:
   template: trestles
-  image: profile.jpg
+  image: assets/profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/chefs-kiss
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/kimberlymandery/
 ---
 
-A longer paragraph about me and my interests and anything else I like to do.
+Hiya! I'm Kim and I’m a Computer Scientist in the [Mathematics, Statistics, and Computer Science Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. 
+I earned my M.S. in Applied and Computational Mathematics at the University of Minnesota - Duluth studying 
+under Tracy Bibelnieks. I earned my bachelor degree in Applied Mathematics, and Statistics and Actuarial Science 
+from University of Minnesota - Duluth.
 
-## Education
-
-Where I studied
+## Research Interests 
+My research area is machine learning, with a focus on the ethical and social dimensions of algorithmic systems. 
+As machine learning continues to shape (or at least influence) decision-making in most aspects of the world that 
+we live in, it's critical to ensure these systems are fair, interpretable, and accountable. 
+My work explores methods and practices that make machine learning accessible to all audiences.
 
 ## Experience
 
-What I've done
+I've worked in industry and government sectors prior to coming to academia. I am a huge proponent of data
+for good, and absolutely love chatting about my experiences and about the tech industry as a whole.
+
+## Personal Life
+I’m originally from Rochester, Minnesota, best known for our giant corncob water tower (in reality it's the Mayo Clinic but the water tower is iconic in it's own right).
+
+I will say “ope” when I bump into literally anything, and love getting lost in a really good 
+fantasy series (always up for recs!). I have two very opinionated dogs, both named after hobbits 
+(yes, they live up to the names), and I play way too much Magic: The Gathering.
+
+I have always been interested in any form of artistic expression, and would have likely ended up as an art teacher if tech didn't pan out.
+Recentely I have been enamored with pottery and printmaking, and love to go explore underrated museums (always open for recs here as well!)

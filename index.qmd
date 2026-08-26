@@ -1,25 +1,20 @@
 ---
-title: "Simone"
+title: "Kimberly Mandery"
 about:
   template: jolla
-  image: profile.jpg
+  image: assets/profile.jpg
   links:
-    - icon: twitter
-      text: twitter
-      href: https://twitter.com
     - icon: github
       text: Github
-      href: https://github.com
+      href: https://github.com/chefs-kiss
     - icon: linkedin
       text: LinkedIn
-      href: https://linkedin.com
-    - icon: google
-      text: Google Scholar
-      href: https://scholar.google.com
+      href: https://www.linkedin.com/in/kimberlymandery/
 ---
 
-I am a Ph.D. student in upside-down studies at Sunspot University.
+I teach computer science and statistics in the [MSCS Department](https://wp.stolaf.edu/mscs/) at St. Olaf College. 
 
-Most of my current research is driven by trying to find an answer to the age-old question of “How cute am I?"
+Here you'll find some of the things I've built, a few projects I've advised on, <br>
+and the occasional rambling about whatever's on my mind.
 
 Please feel free to get in touch!
