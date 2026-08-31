@@ -1,9 +1,0 @@
----
-title: "Advised Projects"
-listing:
-  type: default
-  contents:
-    - "*.qmd"
----
-
-Here are a few selected projects I have advised on.
