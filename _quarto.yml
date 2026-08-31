@@ -4,7 +4,7 @@ project:
 
 website:
   title: "Home"
-  favicon: logo.png
+  favicon: assets/logo.png
   navbar:
     left:
       - href: about.qmd
