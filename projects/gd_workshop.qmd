@@ -4,7 +4,7 @@ author:
   - Kim
 semester: "Fall 2025"
 date: "2025-09-01"
-image: "../assets/rothko_3.png" 
+image: "../assets/roth_3.png" 
 ---
 
 Development of weekly drop-in workshops for introductory game design.

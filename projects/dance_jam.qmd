@@ -1,0 +1,12 @@
+---
+title: "Dance Jam 2026"
+author: 
+  - Kim
+semester: "Spring 2026"
+date: "2026-04-01"
+image: "../assets/roth_4.png"
+---
+
+Collaboration with the dance department on bringing generative algorithms to life.
+
+Read more about the experience [here](https://stolaf-csci.github.io/dance_jam/)
