@@ -32,7 +32,7 @@
     "href": "teaching/Calc1.html",
     "title": "MATH 120: Calculus I",
     "section": "",
-    "text": "Course Description: This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course.\nCourse Goals: Through the lens of calculus, we will: - approach problems from multiple perspectives, employing a variety of strategies. - recognize and employ patterns, structures, and models appropriate to particular theoretical or contextual problems. - represent and interpret information in numeric, symbolic, or graphical forms.\nSemester Taught  Fall 2023"
+    "text": "Course Description: This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course.\nSemester Taught  Fall 2023"
   },
   {
     "objectID": "blog/2026-08-26.html",
@@ -116,14 +116,14 @@
     "href": "teaching/ML.html",
     "title": "CSCI 279: Machine Learning",
     "section": "",
-    "text": "Course Description: It has become increasingly common to use machine learning algorithms to analyze data, draw conclusions, and build models, without direct human instruction. These algorithms have been used in a wide variety of applications, including Netflix recommendations, predicting healthcare outcomes, criminal justice, and many more. In this course, we’ll explore several common machine learning algorithms, learning how they work, and applying them to real datasets. We will cover the strengths and limitations of machine learning algorithms. We will also explore real-world applications of machine learning, and discuss the ethical and societal consequences of the use of these algorithms.\nCourse Goals: Through the lens of machine learning, we will: - develop and interpret applications of algorithms to domain use-cases - develop working software that satisfies coding best practices - work effectively, both individually and in teams - communicate information effectively to both technical and non-technical audiences\nSemester Taught  Fall 2026 course site January 2026 course site  Spring 2025  Spring 2024"
+    "text": "Course Description: It has become increasingly common to use machine learning algorithms to analyze data, draw conclusions, and build models, without direct human instruction. These algorithms have been used in a wide variety of applications, including Netflix recommendations, predicting healthcare outcomes, criminal justice, and many more. In this course, we’ll explore several common machine learning algorithms, learning how they work, and applying them to real datasets. We will cover the strengths and limitations of machine learning algorithms. We will also explore real-world applications of machine learning, and discuss the ethical and societal consequences of the use of these algorithms.\nSemester Taught  Fall 2026 course site January 2026 course site  Spring 2025  Spring 2024"
   },
   {
     "objectID": "teaching/Calc2.html",
     "href": "teaching/Calc2.html",
     "title": "MATH 126: Calculus II",
     "section": "",
-    "text": "Course Description: This course covers methods and applications of integration, geometric and Taylor series, polar coordinates, and introduces partial derivatives and double integrals.\nCourse Goals: Through the lens of calculus, we will: - approach problems from multiple perspectives, employing a variety of strategies. - recognize and employ patterns, structures, and models appropriate to particular theoretical or contextual problems. - represent and interpret information in numeric, symbolic, or graphical forms.\nSemester Taught  Fall 2022"
+    "text": "Course Description: This course covers methods and applications of integration, geometric and Taylor series, polar coordinates, and introduces partial derivatives and double integrals.\nSemester Taught  Fall 2022"
   },
   {
     "objectID": "teaching/AI_ethics.html",
@@ -137,6 +137,6 @@
     "href": "teaching/CS1.html",
     "title": "CSCI 121: Principles of Computer Science",
     "section": "",
-    "text": "Course Goals: Through the lens of computer science fundamentals, we will: - develop an understanding of core programming concepts, including data types, control flow, functions, and abstraction - design and implement simple programs that solve meaningful problems - explore how computers execute code and represent data - apply computational thinking to reason through novel challenges - collaborate and communicate effectively in both individual and team-based settings\nSemesters Taught\nFall 2025  Spring 2025  Fall 2024  Spring 2023"
+    "text": "Course Description: This course introduces the perspectives and methods of computer science. Students learn to develop algorithms, which are step-by-step procedures for accomplishing a task. Students translate these algorithms into a programming language, utilizing common programming structures. The structures covered include variables, functions, loops, control flow, basic data structures, classes, and a brief introduction to object-oriented programming.\nSemesters Taught\nFall 2025  Spring 2025  Fall 2024  Spring 2023"
   }
 ]

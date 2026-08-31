@@ -155,7 +155,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 <p><strong>Course Description</strong>: This course covers methods and applications of integration, geometric and Taylor series, polar coordinates, and introduces partial derivatives and double integrals.</p>
-<p><strong>Course Goals</strong>: Through the lens of calculus, we will: - approach problems from multiple perspectives, employing a variety of strategies. - recognize and employ patterns, structures, and models appropriate to particular theoretical or contextual problems. - represent and interpret information in numeric, symbolic, or graphical forms.</p>
 <p><strong>Semester Taught</strong> <br> Fall 2022 <br></p>
 
 
@@ -234,7 +233,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/chefs-kiss\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

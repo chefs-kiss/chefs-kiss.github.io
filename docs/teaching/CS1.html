@@ -154,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p><strong>Course Goals</strong>: Through the lens of computer science fundamentals, we will: - develop an understanding of core programming concepts, including data types, control flow, functions, and abstraction - design and implement simple programs that solve meaningful problems - explore how computers execute code and represent data - apply computational thinking to reason through novel challenges - collaborate and communicate effectively in both individual and team-based settings</p>
+<p><strong>Course Description</strong>: This course introduces the perspectives and methods of computer science. Students learn to develop algorithms, which are step-by-step procedures for accomplishing a task. Students translate these algorithms into a programming language, utilizing common programming structures. The structures covered include variables, functions, loops, control flow, basic data structures, classes, and a brief introduction to object-oriented programming.</p>
 <p><strong>Semesters Taught</strong></p>
 <p>Fall 2025 <br> Spring 2025 <br> Fall 2024 <br> Spring 2023 <br></p>
 
@@ -234,7 +234,7 @@ ul.task-list li input[type="checkbox"] {
     }
       var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
       var mailtoRegex = new RegExp(/^mailto:/);
-        var filterRegex = new RegExp("https:\/\/chefs-kiss\.github\.io\/");
+        var filterRegex = new RegExp('/' + window.location.host + '/');
       var isInternal = (href) => {
           return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
       }

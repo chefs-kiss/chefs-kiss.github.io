@@ -5,10 +5,6 @@ Semester: "2022-2023 Fall"
 
 **Course Description**: This course covers methods and applications of integration, geometric and Taylor series, polar coordinates, and introduces partial derivatives and double integrals.
 
-**Course Goals**: Through the lens of calculus, we will:
-- approach problems from multiple perspectives, employing a variety of strategies.
-- recognize and employ patterns, structures, and models appropriate to particular theoretical or contextual problems.
-- represent and interpret information in numeric, symbolic, or graphical forms.
 
 **Semester Taught** <br>
 Fall 2022 <br>
