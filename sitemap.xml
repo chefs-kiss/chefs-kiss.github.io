@@ -2,15 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://chefs-kiss.github.io/teaching/game_design.html</loc>
-    <lastmod>2026-08-26T17:55:07.728Z</lastmod>
+    <lastmod>2026-08-31T13:32:55.757Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/teaching/DS1.html</loc>
-    <lastmod>2026-08-26T17:55:07.727Z</lastmod>
+    <lastmod>2026-08-31T13:32:40.929Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/teaching/ADM.html</loc>
-    <lastmod>2026-08-26T17:55:07.727Z</lastmod>
+    <lastmod>2026-08-31T13:33:21.270Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/teaching/index.html</loc>
@@ -18,19 +18,23 @@
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/teaching/Calc1.html</loc>
-    <lastmod>2026-08-26T17:55:07.727Z</lastmod>
+    <lastmod>2026-08-31T13:31:00.819Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/blog/2026-08-26.html</loc>
     <lastmod>2026-08-26T17:55:07.700Z</lastmod>
   </url>
   <url>
-    <loc>https://chefs-kiss.github.io/projects/cell_archive.html</loc>
-    <lastmod>2026-08-26T17:55:07.726Z</lastmod>
+    <loc>https://chefs-kiss.github.io/projects/gd_workshop.html</loc>
+    <lastmod>2026-08-31T22:13:36.572Z</lastmod>
   </url>
   <url>
-    <loc>https://chefs-kiss.github.io/projects/index.html</loc>
-    <lastmod>2026-08-26T17:55:07.727Z</lastmod>
+    <loc>https://chefs-kiss.github.io/projects/ai_literacy.html</loc>
+    <lastmod>2026-08-31T22:13:30.946Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chefs-kiss.github.io/projects/dance_jam.html</loc>
+    <lastmod>2026-08-31T22:12:56.873Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/index.html</loc>
@@ -41,24 +45,28 @@
     <lastmod>2026-08-26T17:55:07.695Z</lastmod>
   </url>
   <url>
-    <loc>https://chefs-kiss.github.io/projects/ai_literacy.html</loc>
-    <lastmod>2026-08-26T17:55:07.726Z</lastmod>
+    <loc>https://chefs-kiss.github.io/projects/index.html</loc>
+    <lastmod>2026-08-26T17:55:07.727Z</lastmod>
   </url>
   <url>
-    <loc>https://chefs-kiss.github.io/projects/gd_workshop.html</loc>
-    <lastmod>2026-08-26T17:55:07.727Z</lastmod>
+    <loc>https://chefs-kiss.github.io/projects/cell_archive.html</loc>
+    <lastmod>2026-08-31T22:13:33.560Z</lastmod>
+  </url>
+  <url>
+    <loc>https://chefs-kiss.github.io/blog/2026-08-31.html</loc>
+    <lastmod>2026-08-31T15:47:14.152Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/blog/index.html</loc>
-    <lastmod>2026-08-26T17:55:07.700Z</lastmod>
+    <lastmod>2026-08-31T15:47:30.198Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/teaching/ML.html</loc>
-    <lastmod>2026-08-26T17:55:07.728Z</lastmod>
+    <lastmod>2026-08-31T13:33:10.686Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/teaching/Calc2.html</loc>
-    <lastmod>2026-08-26T17:55:07.727Z</lastmod>
+    <lastmod>2026-08-31T13:31:04.302Z</lastmod>
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/teaching/AI_ethics.html</loc>
@@ -66,6 +74,6 @@
   </url>
   <url>
     <loc>https://chefs-kiss.github.io/teaching/CS1.html</loc>
-    <lastmod>2026-08-26T17:55:07.727Z</lastmod>
+    <lastmod>2026-08-31T13:32:30.620Z</lastmod>
   </url>
 </urlset>

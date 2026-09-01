@@ -32,7 +32,7 @@
     "href": "teaching/Calc1.html",
     "title": "MATH 120: Calculus I",
     "section": "",
-    "text": "Course Description: This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course.\nCourse Goals: Through the lens of calculus, we will: - approach problems from multiple perspectives, employing a variety of strategies. - recognize and employ patterns, structures, and models appropriate to particular theoretical or contextual problems. - represent and interpret information in numeric, symbolic, or graphical forms.\nSemester Taught  Fall 2023"
+    "text": "Course Description: This course introduces differential and integral calculus of functions of a single real variable, including trigonometric, exponential, and logarithmic functions. Derivatives, integrals, and differential equations are explored graphically, symbolically, and numerically. Applications of these topics are emphasized throughout the course.\nSemester Taught  Fall 2023"
   },
   {
     "objectID": "blog/2026-08-26.html",
@@ -42,18 +42,25 @@
     "text": "Summer break is coming to a close. My to-do list is expanding. All I want to do is go for a long walk outside.\nIt’s been a very fortunate summer for me in all seriousness. I advised on my first “official” undergraduate research. I’ve made connections at conferences and in my local community.\nI’m feeling excited about delving into immunology research this fall. I’m also feeling nervous to teach a topics course on a subject I’m quite new to.\nIt’s a time of growth, and that presents it’s own difficulties. But such is life. We shall persist."
   },
   {
-    "objectID": "projects/cell_archive.html",
-    "href": "projects/cell_archive.html",
-    "title": "Cell Archive for Tetrahymena",
+    "objectID": "projects/gd_workshop.html",
+    "href": "projects/gd_workshop.html",
+    "title": "Game Design Workshops",
     "section": "",
-    "text": "Summer research focused on building a data ingestion web app for our biology department.\nSummer 2026\ntbd"
+    "text": "Development of weekly drop-in workshops for introductory game design.\nFall 2025\ntbd"
   },
   {
-    "objectID": "projects/index.html",
-    "href": "projects/index.html",
-    "title": "Advised Projects",
+    "objectID": "projects/ai_literacy.html",
+    "href": "projects/ai_literacy.html",
+    "title": "AI Literacy in Education",
     "section": "",
-    "text": "Here are a few selected projects I have advised on.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCell Archive for Tetrahymena\n\n\n\n\n\n\n\n\nSemester\n\n\nSummer 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI Literacy in Education\n\n\n\n\n\n\n\n\nSemester\n\n\nSpring 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGame Design Workshops\n\n\n\n\n\n\n\n\nSemester\n\n\nFall 2025\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "Campus-wide conversations around AI and it’s role in higher education.\nSpring 2026\ntbd"
+  },
+  {
+    "objectID": "projects/dance_jam.html",
+    "href": "projects/dance_jam.html",
+    "title": "Dance Jam 2026",
+    "section": "",
+    "text": "Collaboration with the dance department on bringing generative algorithms to life.\nRead more about the experience here"
   },
   {
     "objectID": "index.html",
@@ -91,39 +98,46 @@
     "text": "Personal Life\nI’m originally from Rochester, Minnesota, best known for our giant corncob water tower (in reality it’s the Mayo Clinic but the water tower is iconic in it’s own right).\nI will say “ope” when I bump into literally anything, and love getting lost in a really good fantasy series (always up for recs!). I have two very opinionated dogs, both named after hobbits (yes, they live up to the names), and I play way too much Magic: The Gathering.\nI have always been interested in any form of artistic expression, and would have likely ended up as an art teacher if tech didn’t pan out. Recentely I have been enamored with pottery and printmaking, and love to go explore underrated museums (always open for recs here as well!)"
   },
   {
-    "objectID": "projects/ai_literacy.html",
-    "href": "projects/ai_literacy.html",
-    "title": "AI Literacy in Education",
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Advised Projects",
     "section": "",
-    "text": "Campus-wide conversations around AI and it’s role in higher education.\nSpring 2026\ntbd"
+    "text": "Here are a few selected projects I have advised on.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCell Archive for Tetrahymena\n\n\n\n\n\n\n\n\nSemester\n\n\nSummer 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDance Jam 2026\n\n\n\n\n\n\n\n\nSemester\n\n\nSpring 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAI Literacy in Education\n\n\n\n\n\n\n\n\nSemester\n\n\nSpring 2026\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGame Design Workshops\n\n\n\n\n\n\n\n\nSemester\n\n\nFall 2025\n\n\n\n\n\n\n\n\nNo matching items"
   },
   {
-    "objectID": "projects/gd_workshop.html",
-    "href": "projects/gd_workshop.html",
-    "title": "Game Design Workshops",
+    "objectID": "projects/cell_archive.html",
+    "href": "projects/cell_archive.html",
+    "title": "Cell Archive for Tetrahymena",
     "section": "",
-    "text": "Development of weekly drop-in workshops for introductory game design.\nFall 2025\ntbd"
+    "text": "Summer research focused on building a data ingestion web app for our biology department.\nSummer 2026\ntbd"
+  },
+  {
+    "objectID": "blog/2026-08-31.html",
+    "href": "blog/2026-08-31.html",
+    "title": "The age of anxiety",
+    "section": "",
+    "text": "It is an interesting time to be an educator. It has been noted that students are no longer bored in our classrooms, but anxious.\nAnxious about being perceived by their peers. Anxious for what awaits them outside our institution’s walls. Anxious to be a part of a world that may not be the most kind to newcomers.\nThe anxiety surrounding transitional points in a person’s life is a grounding human experience. But it does seem like current transitional periods are more abrupt than in the past.\nWhy is this? Well, to most the answer to many things nowadays is technology. So it it our reliance on it? Or subservience to it? Something else?\nOne could argue that technology has made us ever connected. I am able to play video games with friends all over the world thanks to technology. I can spend time with those I care about even though we are miles apart. But after I log off, there is an adjustment period of having to come back to my own reality. So what it just an illusion of connection?\nThere is also something to be said about the renassaince of third spaces. I saw a couple hosting a linocut block party out of their garage to build up connection in their local community. It did so well the first weekend, that they are hosting additional ones in the coming months (of which I’m really excited to attend!).\nIs there a physicallity of connection and of sharing spaces with people that allows our brains to foster “true deep” connection. What does it mean to feel connected? to others? to our community? to a larger… idk purpose?\nPerhaps it’s a balance of our senses. Some aspect of physicallity exists, but merely as a way to create a full experience. And experience and connection can be two separate things."
   },
   {
     "objectID": "blog/index.html",
     "href": "blog/index.html",
     "title": "Ramblings",
     "section": "",
-    "text": "Dropspot for ramblings and errata. These thoughts are my own, and do not necessarily reflect the ideologies of my affliations.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nReflections on summer\n\n\n\n\n\n\n\n\nAug 26, 2026\n\n\n\n\n\nNo matching items"
+    "text": "Dropspot for ramblings and errata. These thoughts are my own, and do not necessarily reflect the ideologies of my affliations.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nThe age of anxiety\n\n\n\n\n\n\n\n\nAug 31, 2026\n\n\n\n\n\n\n\n\n\n\n\n\nReflections on summer\n\n\n\n\n\n\n\n\nAug 26, 2026\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/ML.html",
     "href": "teaching/ML.html",
     "title": "CSCI 279: Machine Learning",
     "section": "",
-    "text": "Course Description: It has become increasingly common to use machine learning algorithms to analyze data, draw conclusions, and build models, without direct human instruction. These algorithms have been used in a wide variety of applications, including Netflix recommendations, predicting healthcare outcomes, criminal justice, and many more. In this course, we’ll explore several common machine learning algorithms, learning how they work, and applying them to real datasets. We will cover the strengths and limitations of machine learning algorithms. We will also explore real-world applications of machine learning, and discuss the ethical and societal consequences of the use of these algorithms.\nCourse Goals: Through the lens of machine learning, we will: - develop and interpret applications of algorithms to domain use-cases - develop working software that satisfies coding best practices - work effectively, both individually and in teams - communicate information effectively to both technical and non-technical audiences\nSemester Taught  Fall 2026 course site January 2026 course site  Spring 2025  Spring 2024"
+    "text": "Course Description: It has become increasingly common to use machine learning algorithms to analyze data, draw conclusions, and build models, without direct human instruction. These algorithms have been used in a wide variety of applications, including Netflix recommendations, predicting healthcare outcomes, criminal justice, and many more. In this course, we’ll explore several common machine learning algorithms, learning how they work, and applying them to real datasets. We will cover the strengths and limitations of machine learning algorithms. We will also explore real-world applications of machine learning, and discuss the ethical and societal consequences of the use of these algorithms.\nSemester Taught  Fall 2026 course site January 2026 course site  Spring 2025  Spring 2024"
   },
   {
     "objectID": "teaching/Calc2.html",
     "href": "teaching/Calc2.html",
     "title": "MATH 126: Calculus II",
     "section": "",
-    "text": "Course Description: This course covers methods and applications of integration, geometric and Taylor series, polar coordinates, and introduces partial derivatives and double integrals.\nCourse Goals: Through the lens of calculus, we will: - approach problems from multiple perspectives, employing a variety of strategies. - recognize and employ patterns, structures, and models appropriate to particular theoretical or contextual problems. - represent and interpret information in numeric, symbolic, or graphical forms.\nSemester Taught  Fall 2022"
+    "text": "Course Description: This course covers methods and applications of integration, geometric and Taylor series, polar coordinates, and introduces partial derivatives and double integrals.\nSemester Taught  Fall 2022"
   },
   {
     "objectID": "teaching/AI_ethics.html",
@@ -137,6 +151,6 @@
     "href": "teaching/CS1.html",
     "title": "CSCI 121: Principles of Computer Science",
     "section": "",
-    "text": "Course Goals: Through the lens of computer science fundamentals, we will: - develop an understanding of core programming concepts, including data types, control flow, functions, and abstraction - design and implement simple programs that solve meaningful problems - explore how computers execute code and represent data - apply computational thinking to reason through novel challenges - collaborate and communicate effectively in both individual and team-based settings\nSemesters Taught\nFall 2025  Spring 2025  Fall 2024  Spring 2023"
+    "text": "Course Description: This course introduces the perspectives and methods of computer science. Students learn to develop algorithms, which are step-by-step procedures for accomplishing a task. Students translate these algorithms into a programming language, utilizing common programming structures. The structures covered include variables, functions, loops, control flow, basic data structures, classes, and a brief introduction to object-oriented programming.\nSemesters Taught\nFall 2025  Spring 2025  Fall 2024  Spring 2023"
   }
 ]

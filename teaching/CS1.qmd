@@ -1,4 +1,0 @@
----
-title: "CSCI 121: Principles of Computer Science"
-Semester: "2025 Spring"
----
