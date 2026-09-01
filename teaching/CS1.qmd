@@ -12,6 +12,7 @@ classes, and a brief introduction to object-oriented programming.
 
 **Semesters Taught**
 
+Spring 2026 <br>
 Fall 2025 <br>
 Spring 2025 <br>
 Fall 2024 <br>
